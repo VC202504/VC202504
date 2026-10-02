@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://blockobra.com.br">BlockObra</a> ·
   <a href="https://blockinfra.com.br">BLOCKINFRA</a> ·
+  <a href="https://blockobra.com.br">BlockObra</a> ·
   <a href="https://vitrini360.app">VITRINI360</a> ·
   <a href="https://engscan.app">ENGSCAN</a> ·
   <a href="https://vaga1.com.br">VAGA1</a> ·
@@ -28,12 +28,43 @@ Sou Luzikenyo Louis Monteiro Veloso Chianca, Kenyo para todo mundo. Engenheiro c
 
 Passei anos em canteiro, em fiscalização e em sala de licitação. Os produtos abaixo nasceram de problemas que vivi nesses lugares: o diário de obra que ninguém consegue auditar, a medição que não fecha com a planilha, o projeto de loteamento que depende de três programas diferentes. Cada um resolve uma dessas dores, com o rigor que a engenharia e o controle externo exigem.
 
+## Em destaque: BLOCKINFRA
+
+<p align="center">
+  <a href="https://blockinfra.com.br"><img src="assets/blockinfra-tela.jpg" width="100%" alt="Tela do BLOCKINFRA com um loteamento, suas redes e a lista de pontos" /></a>
+</p>
+
+**Do levantamento ao projeto aprovado, em um só programa.**
+
+O BLOCKINFRA é o software desktop que reúne o que hoje exige três ou quatro programas diferentes. O mesmo arquivo guarda o terreno, o loteamento, as redes e o orçamento, e tudo conversa: mexeu numa rua, os lotes, o greide, a drenagem e o custo se refazem.
+
+| Etapa | O que o BLOCKINFRA entrega |
+|---|---|
+| **Levantamento** | Georreferenciamento no padrão SIGEF (planilha, validação, memorial e planta), terreno a partir de drone, SRTM e Copernicus, fundo de satélite |
+| **Urbanismo** | Traçado de ruas, quadras, lotes, greide e terraplenagem, com verificação da Lei 6.766 e das regras do município |
+| **Redes** | Drenagem com chuvas de projeto por estação, esgoto (rede, elevatórias, tratamento e concepção para a cidade inteira), água, energia e iluminação pública |
+| **Viário e obras** | Pavimentação pelo método do DNIT, estradas vicinais, pontes e passagens molhadas, programa de sondagens pela NBR 8036 |
+| **Entrega** | Orçamento, viabilidade, memoriais, pranchas de execução, vista 3D e exportação para KMZ, SHP, GeoJSON, XLSX e LandXML |
+
+<p align="center">
+  <img src="assets/blockinfra-3d.jpg" width="49%" alt="Vista 3D do loteamento projetado sobre o terreno" />
+  <img src="assets/blockinfra-prancha.jpg" width="49%" alt="Prancha de localização e situação gerada pelo programa" />
+</p>
+
+<p align="center">
+  <a href="https://blockinfra.com.br"><b>Baixar e testar por 14 dias</b></a> ·
+  <a href="https://blockinfra.com.br/manual/">Manual</a> ·
+  <a href="https://github.com/VC202504/sobre-blockinfra">Apresentação completa</a>
+</p>
+
+<p align="center"><sub>Versão atual 0.9.23, para Windows, com atualização automática. Escrito em Python com PySide6 (Qt).</sub></p>
+
 ## Produtos
 
 | Produto | O que faz | Stack | Situação |
 |---|---|---|---|
+| **[BLOCKINFRA](https://blockinfra.com.br)** | Software desktop de engenharia: georreferenciamento SIGEF, modelo digital de terreno, loteamento completo (viário, lotes, greide, terraplenagem), drenagem, esgoto, água, energia, pavimentação, estradas vicinais, pontes e passagens molhadas, sondagens, orçamento e pranchas. | Python, PySide6 (Qt), GeoPackage | Em produção |
 | **[BlockObra](https://blockobra.com.br)** | Relatório Diário de Obra (RDO) com fluxo contratada e fiscalização, versões imutáveis encadeadas por hash, assinatura ICP-Brasil, PDF com QR e validação pública, cronograma, curva S, medições, estoque e IA de visão nas fotos. PWA com uso offline. | Next.js, NestJS, Prisma, PostgreSQL/PostGIS, Redis | Em produção |
-| **[BLOCKINFRA](https://blockinfra.com.br)** | Software desktop de engenharia: georreferenciamento SIGEF, modelo digital de terreno, loteamento completo (viário, lotes, greide, terraplenagem), drenagem, esgoto, água, energia, pavimentação, estradas vicinais, pontes e passagens molhadas, orçamento e pranchas. | Python, PySide6 (Qt), GeoPackage | Em produção |
 | **[VITRINI360](https://vitrini360.app)** | Plataforma multi-inquilino para venda de imóveis na planta e usados: portal do corretor, proposta, contrato online com assinatura eletrônica, cobrança por PIX e boleto, comissões. | Next.js, React, Prisma, PostgreSQL | Em produção |
 | **[ENGSCAN](https://engscan.app)** | Análise de patologias construtivas por foto, direto no WhatsApp, com laudo em PDF e créditos pré-pagos por PIX. | Fastify, Next.js, Prisma, PostgreSQL, agentes de IA | Em produção |
 | **[VAGA1](https://vaga1.com.br)** | Gestão de mão de obra para órgãos públicos: postos, ponto eletrônico com GPS e coordenada UTM, medição por diária, relatórios assinados e app do trabalhador. Inclui o **VAGA1 Tarefas**, app de tarefas para empresas: cada tarefa realizada é comprovada por foto com data, hora e coordenadas, com aviso por e-mail (WhatsApp em implantação). | PHP, MySQL, PWA | Em produção |
