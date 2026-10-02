@@ -15,6 +15,7 @@
   <a href="https://vitrini360.app">VITRINI360</a> ·
   <a href="https://engscan.app">ENGSCAN</a> ·
   <a href="https://vaga1.com.br">VAGA1</a> ·
+  <a href="https://blockprime.app">BlockPrime</a> ·
   <a href="https://l7engenharia.com.br">L7 Engenharia</a>
 </p>
 
@@ -37,14 +38,13 @@ Passei anos em canteiro, em fiscalização e em sala de licitação. Os produtos
 | **[VAGA1](https://vaga1.com.br)** | Gestão de mão de obra para órgãos públicos: postos, ponto eletrônico com GPS e coordenada UTM, medição por diária, relatórios assinados e app do trabalhador. | PHP, MySQL, PWA | Em produção |
 | **LicitaBlock** | Licitações eletrônicas municipais em modelo white label, com integração ao PNCP e livro-razão da sessão encadeado por hash, da proposta à homologação. | Next.js, Prisma, PostgreSQL | Em desenvolvimento |
 | **OBRAGOV** | Gestão de contratos de obras públicas: planilha vencedora, boletim de medição, atesto do fiscal, liquidação e pagamento, no padrão dos tribunais de contas. | NestJS, Next.js, PostgreSQL com RLS | Em desenvolvimento |
+| **[BlockPrime](https://blockprime.app)** | Fora da engenharia: indicador próprio para TradingView (Smart Money Concepts, fluxo de ordens e zonas de liquidez) com sinais classificados por qualidade, e robô que executa no MetaTrader 5 com gestão de risco e trailing stop. | Pine Script v6, Supabase, Python, MetaTrader 5 | Em testes, conta demo |
 
 ## Laboratório
 
 - **Civil 3D + IA**: servidor MCP que permite operar o Autodesk Civil 3D por linguagem natural.
 - **Hermes Agent**: assistente pessoal 24/7 com skills de engenharia (patologia estrutural, identificação de elementos construtivos).
 - **Aerofotogrametria**: fluxo automatizado de processamento de voo de drone (ortofoto, MDT, curvas de nível).
-- **BlockPrime**: indicador para TradingView em Pine Script com execução automatizada.
-
 ## Qualificações
 
 **Formação e registro**
