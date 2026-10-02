@@ -16,7 +16,8 @@
   <a href="https://engscan.app">ENGSCAN</a> ·
   <a href="https://vaga1.com.br">VAGA1</a> ·
   <a href="https://blockprime.app">BlockPrime</a> ·
-  <a href="https://l7engenharia.com.br">L7 Engenharia</a>
+  <a href="https://l7engenharia.com.br">L7 Engenharia</a> ·
+  <a href="https://www.amazon.com.br/dp/6502120490">Livro</a>
 </p>
 
 ---
@@ -45,6 +46,16 @@ Passei anos em canteiro, em fiscalização e em sala de licitação. Os produtos
 - **Civil 3D + IA**: servidor MCP que permite operar o Autodesk Civil 3D por linguagem natural.
 - **Hermes Agent**: assistente pessoal 24/7 com skills de engenharia (patologia estrutural, identificação de elementos construtivos).
 - **Aerofotogrametria**: fluxo automatizado de processamento de voo de drone (ortofoto, MDT, curvas de nível).
+
+## Livro
+
+**[Análise de Licitações na Engenharia Civil](https://www.amazon.com.br/dp/6502120490)**<br/>
+Planejamento, orçamento, execução e estratégia sob a Lei nº 14.133/2021.
+
+O que aprendi em anos de licitação de obras, organizado para quem orça, disputa, executa ou fiscaliza: 20 capítulos em 364 páginas, com glossário, checklists, quadro dos dispositivos da lei e apêndice de fórmulas. ISBN 978-65-02-12049-1.
+
+[Comprar na Amazon](https://www.amazon.com.br/dp/6502120490)
+
 ## Qualificações
 
 **Formação e registro**
@@ -53,7 +64,7 @@ Passei anos em canteiro, em fiscalização e em sala de licitação. Os produtos
 - Atuação técnica pela L7 Engenharia (João Pessoa/PB)
 
 **Publicação**
-- Autor de *Análise de Licitações na Engenharia Civil: Planejamento, Orçamento, Execução e Estratégia sob a Lei nº 14.133/2021* (ISBN 978-65-02-12049-1)
+- Autor de [*Análise de Licitações na Engenharia Civil: Planejamento, Orçamento, Execução e Estratégia sob a Lei nº 14.133/2021*](https://www.amazon.com.br/dp/6502120490) (ISBN 978-65-02-12049-1)
 
 **Acervo técnico (CATs registradas no CREA)**
 - Edificações públicas: escolas, ginásio, quadra coberta, Unidade Básica de Saúde, galpão pré-moldado
