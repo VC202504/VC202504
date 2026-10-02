@@ -15,7 +15,7 @@
   <a href="https://vitrini360.app">VITRINI360</a> ·
   <a href="https://engscan.app">ENGSCAN</a> ·
   <a href="https://vaga1.com.br">VAGA1</a> ·
-  <a href="https://www.l7engenharia.com">L7 Engenharia</a>
+  <a href="https://l7engenharia.com.br">L7 Engenharia</a>
 </p>
 
 ---
@@ -88,7 +88,7 @@ O que se repete em todos os produtos: isolamento multi-inquilino validado no ser
 
 ## Contato
 
-- L7 Engenharia: [l7engenharia.com](https://www.l7engenharia.com) · contato@l7engenharia.com.br
+- L7 Engenharia: [l7engenharia.com.br](https://l7engenharia.com.br) · contato@l7engenharia.com.br
 - BlockObra: [blockobra.com.br/contato](https://blockobra.com.br/contato)
 - BLOCKINFRA: contato@blockinfra.com.br
 
